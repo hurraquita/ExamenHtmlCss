@@ -1,0 +1,43 @@
+.card{
+background: rgb(73, 73, 73);
+border-radius: 12px;
+max-width: 600px;
+margin: auto;
+box-shadow: 0 0 12px black;
+} 
+h2{
+    color: aliceblue;
+}
+p{
+    color: gray;
+}
+button{
+    background-color:rgb(73, 73, 73);
+    border-radius: 10px;
+    color: aliceblue;
+
+}
+input{
+    background-color:rgb(73, 73, 73);
+    border-radius: 5px;
+}
+.cuenta{
+    background: rgb(73, 73, 73);
+padding: 20px;
+border-radius: 12px;
+max-width: 600px;
+margin: auto;
+box-shadow: 0 0 12px black;
+text-align: center;
+border: 1px solid white;
+color: aliceblue;
+}
+.cabeza{
+    background-color: darkblue;
+    border-radius: 12px;
+}
+.enlinea{
+    background-color: black;
+    padding: 10px;
+    border-radius: 12px;
+}
